@@ -1,8 +1,7 @@
 
 
 
-
-- ### Drop table with IF EXISTS
+### Drop table with IF EXISTS
 
 for backwards compatibility with all versions of sql-server, use this:
 
